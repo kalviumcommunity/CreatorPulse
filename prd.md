@@ -1,4 +1,3 @@
-# CreatorPulse
 # Product Requirements Document (PRD): CreatorPulse
 
 ## 1. Product Overview
